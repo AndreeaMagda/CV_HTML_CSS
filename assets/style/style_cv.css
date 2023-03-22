@@ -1,0 +1,189 @@
+body{
+   background-image:url(https://i.pinimg.com/750x/8d/21/72/8d21725c40a079e16d5bb6ead975f61a.jpg)
+    
+
+}
+
+
+
+
+.table-cell{
+    width: 20%;
+    background-color: rgb(141, 93, 119) ;
+}
+
+
+.table-cell-picture{
+ 
+    background-color: rgb(141, 93, 119);
+    padding: 20px 20px 20px 100px;
+    
+}
+
+.picture-size{
+    height: 200px;
+    width: 250px;
+
+}
+
+
+.text-center{
+    text-align: center;
+}
+.text-left2{
+    text-align: left;
+}
+
+.me-picture-format {
+    width: 250px;
+    border-radius: 50px;
+    
+}
+
+.custom-line{
+    width: 1000px;
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.inline{
+    display: inline;
+    padding: 10px;
+}
+
+.width-icon{
+ width: 10px;
+}
+
+.width-icon2{
+    width: 15px;
+   }
+
+.height{
+    height: 250px;
+}   
+
+.table{
+    width: 70%;
+    background-color: rgb(141, 93, 119);
+    border-radius: 0px;
+    border-collapse: collapse;
+   margin:auto;
+
+}
+.bold{
+    font-weight: bold;
+}
+.margine{
+    margin-left: 0% ;
+}
+.border-right{
+    border-right: 10px solid rgb(134, 120, 173);
+}
+.border-down{
+    border-bottom: 10px solid rgb(153, 126, 196);
+}
+
+.right-col{
+    width: 50%;
+    background-color: rgb(229, 196, 209);
+    padding: 10px 30px 10px 30px;
+    margin-top: 0px;
+    /*border-radius: 20px;*/
+}
+
+
+
+.left-col{
+    width: 20%;
+    background-color: rgb(141, 93, 119);
+    padding: 10px 30px 10px 20px;
+   /* border-radius: 20px;*/
+    margin-left: 20px;
+}
+
+
+
+
+.text-box {
+    background-color: rgb(229, 196, 209);  
+    height: 30px;
+    border: 2px rgb(0, 0, 0);
+    padding-left: 20px;
+    border-radius: 30px;
+    text-align: center;
+  
+}
+
+
+.text-box2 {
+    background-color: rgb(141, 93, 119);
+    height: 30px;
+    width:auto;
+    border-radius: 30px;
+    border-bottom: 1px rgb(29, 70, 253);
+    text-align: center;
+  
+}
+
+.progressbar {
+    width: 50%;
+    min-height: 10px;
+    background-color: rgb(25, 29, 39);
+    border-radius: 10px;
+    margin: 4px 2px;
+}
+.progress{
+    background-color: rgb(203, 163, 240);
+    min-height: 10px;
+    border-radius: 10px;
+}
+.p70{
+    width: 70%;
+}
+
+.p50{
+    width: 50%;
+}
+
+.p30{
+    width: 30%;
+}
+
+.p40{
+    width: 40%;
+}
+
+.width-icon3{
+    width: 300px;
+   
+float:right
+}
+
+.wand-img{
+    width: 70px;
+    float: right;
+    padding-right: 60px;
+
+}
+
+
+.format-cell-hedwig{
+    background-color: rgb(141, 93, 119);
+    padding: 20px 20px 20px 100px;
+}
+
+.text-align-left{
+    float:left;
+    text-align: left;
+    padding-top: 90px;
+}
+.text-align-right{
+    text-align: right;
+}
+
+.width{
+    size: 200px;
+}
+
