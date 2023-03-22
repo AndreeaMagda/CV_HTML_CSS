@@ -4,14 +4,10 @@ body{
 
 }
 
-
-
-
 .table-cell{
     width: 20%;
     background-color: rgb(141, 93, 119) ;
 }
-
 
 .table-cell-picture{
  
@@ -26,7 +22,6 @@ body{
 
 }
 
-
 .text-center{
     text-align: center;
 }
@@ -39,31 +34,25 @@ body{
     border-radius: 50px;
     
 }
-
 .custom-line{
     width: 1000px;
     color: rgb(0, 0, 0);
     border: 3px solid rgb(0, 0, 0);
     border-radius: 10px;
 }
-
 .inline{
     display: inline;
     padding: 10px;
 }
-
 .width-icon{
  width: 10px;
 }
-
 .width-icon2{
     width: 15px;
-   }
-
+  }
 .height{
     height: 250px;
 }   
-
 .table{
     width: 70%;
     background-color: rgb(141, 93, 119);
